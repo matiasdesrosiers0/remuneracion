@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="Liquidaciones.contacto"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" Width="725">
+    <Grid Margin="0,0,-210,10">
+        <Label Content="C O N T A C T O " HorizontalAlignment="Left" Margin="485,104,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" FontStyle="Italic"/>
+        <GroupBox Header="Desarrollador" HorizontalAlignment="Left" Margin="370,135,0,-9" VerticalAlignment="Top" Height="164" Width="475" FontSize="18" FontWeight="Bold" FontStyle="Italic"/>
+        <Label Content="Nombre: &#x9;Matías Nicolás Morales Alarcón" HorizontalAlignment="Left" Margin="390,174,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" FontStyle="Italic"/>
+        <Label Content="Domicilio:&#x9;Balmaceda 72, San Carlos" HorizontalAlignment="Left" Margin="390,205,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" FontStyle="Italic"/>
+        <Label Content="Telefono:&#x9;422330320" HorizontalAlignment="Left" Margin="390,236,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" FontStyle="Italic"/>
+
+    </Grid>
+</UserControl>

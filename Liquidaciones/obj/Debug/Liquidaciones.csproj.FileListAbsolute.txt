@@ -1,0 +1,26 @@
+c:\users\matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\bin\Debug\Liquidaciones.exe.config
+c:\users\matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\bin\Debug\Liquidaciones.exe
+c:\users\matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\bin\Debug\Liquidaciones.pdb
+c:\users\matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\obj\Debug\Liquidaciones.csprojResolveAssemblyReference.cache
+c:\users\matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\obj\Debug\MainWindow.baml
+c:\users\matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\obj\Debug\MainWindow.g.cs
+c:\users\matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\obj\Debug\App.g.cs
+c:\users\matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\obj\Debug\Liquidaciones_MarkupCompile.cache
+c:\users\matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\obj\Debug\Liquidaciones.g.resources
+c:\users\matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\obj\Debug\Liquidaciones.Properties.Resources.resources
+c:\users\matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\obj\Debug\Liquidaciones.csproj.GenerateResource.Cache
+c:\users\matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\obj\Debug\Liquidaciones.exe
+c:\users\matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\obj\Debug\Liquidaciones.pdb
+C:\Users\Matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\bin\Debug\itextsharp.dll
+C:\Users\Matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\bin\Debug\itextsharp.xml
+C:\Users\Matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\obj\Debug\Liquidacion.baml
+C:\Users\Matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\obj\Debug\Liquidacion.g.cs
+C:\Users\Matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\obj\Debug\contacto.baml
+C:\Users\Matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\obj\Debug\contacto.g.cs
+C:\Users\Matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\bin\Debug\Liquidaciones.exe.manifest
+C:\Users\Matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\bin\Debug\Liquidaciones.application
+C:\Users\Matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\obj\Debug\Liquidaciones.exe.manifest
+C:\Users\Matias\documents\visual studio 2013\Projects\Liquidaciones\Liquidaciones\obj\Debug\Liquidaciones.application
+C:\Users\Nelson Morales\Desktop\Nueva carpeta (2)\respaldo\Visual Studio 2013\Projects\Liquidaciones\Liquidaciones\bin\Debug\Liquidaciones.exe.config
+C:\Users\Nelson Morales\Desktop\Nueva carpeta (2)\respaldo\Visual Studio 2013\Projects\Liquidaciones\Liquidaciones\obj\Debug\Liquidaciones.exe
+C:\Users\Nelson Morales\Desktop\Nueva carpeta (2)\respaldo\Visual Studio 2013\Projects\Liquidaciones\Liquidaciones\obj\Debug\Liquidaciones.pdb
